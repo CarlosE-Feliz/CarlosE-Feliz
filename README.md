@@ -1,24 +1,11 @@
-![Carlos E  Feliz m](https://user-images.githubusercontent.com/74747182/130283262-133fe2c2-9809-4b60-80f5-4fdf5940a9d6.gif)
+# <p style="font-family:italic">`Hey there I'm Carlos Feliz 😬😬😬` </p>
 
-# 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/cfelizmedina" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://github.com/xJokeer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+### <p>I'm Full-stack, Back-end/Front-end developer, actually studying at [Microverse Inc](https://www.microverse.org/)</p>
 
-```html
-<div id="about_me" class="thanks_for_read">
-<h1>Function About Me</h1>
-<ul>
-<li>I love meeting new people</li>
 
-<li>My jokes are a bit bad</li>
-
-<li>I like to play chess (we could play online😋)</li>
-
-<li>I am a very friendly person although sometimes it does not seem like it</li>                
-</ul>
-</div>
-```
-
- 
+&nbsp;&nbsp;
+ <a href="https://www.instagram.com/feeliz_69/?hl=es-la" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<Carlos Feliz>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/carlosDwayner" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
 ```javascript
 const Carlos_Feliz = {
