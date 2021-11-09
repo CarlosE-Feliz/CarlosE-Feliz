@@ -11,8 +11,8 @@
 const Carlos_Feliz = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   NickName: ["Jokeer"],
-  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, CSS],
-  IllLearn:[React, Redux, Ruby on Rails,],
+  code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, CSS, React, Redux],
+  IllLearn:[Ruby, Ruby on Rails,],
   askMeAbout: [Saga Maze Runner, VideoGames, History, ],
   challenge: ["I'm learning to be a better developer at microverse"],
 }
