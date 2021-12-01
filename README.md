@@ -9,7 +9,7 @@
 
 ```javascript
 const Carlos_Feliz = {
-  lookingFor: "Full-stack web developer",
+  lookingFor: "Front-end developer",
   NickName: ["Jokeer"],
   code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, CSS, React, Redux],
   askMeAbout: [Saga Maze Runner, VideoGames, History, ],
