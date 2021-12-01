@@ -1,6 +1,6 @@
 # <p style="font-family:italic">`Hey there I'm Carlos Feliz 😬😬😬` </p>
 
-### <p>I'm Full-stack, Back-end/Front-end developer, actually studying at [Microverse Inc](https://www.microverse.org/)</p>
+### <p>I'm Front-end developer</p>
 
 
 &nbsp;&nbsp;
@@ -9,12 +9,11 @@
 
 ```javascript
 const Carlos_Feliz = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
+  lookingFor: "Full-stack web developer",
   NickName: ["Jokeer"],
   code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, CSS, React, Redux],
-  IllLearn:[Ruby, Ruby on Rails,],
   askMeAbout: [Saga Maze Runner, VideoGames, History, ],
-  challenge: ["I'm learning to be a better developer at microverse"],
+  challenge: ["I'm learning to be a better developer "],
 }
 ```
 
