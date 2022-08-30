@@ -11,7 +11,7 @@
 const Carlos_Feliz = {
   lookingFor: "Front-end developer",
   code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, CSS, React.js, Redux, Sass, Next.js],
-  askMeAbout: [Saga Maze Runner, VideoGames, History, ],
+  askMeAbout: [Saga Maze Runner, VideoGames, History ],
   challenge: ["I'm learning to be a better developer "],
 }
 ```
