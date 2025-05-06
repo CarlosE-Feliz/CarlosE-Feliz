@@ -1,11 +1,10 @@
-# <p style="font-family:italic">`Hey there I'm Carlos Feliz 😬😬😬` </p>
+# <p style="font-family:italic">`Hey there I'm Carlos Feliz` </p>
 
 ### <p>I'm Front-end developer</p>
 
 
 &nbsp;&nbsp;
- <a href="https://www.instagram.com/feeliz_69/?hl=es-la" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/<Carlos Feliz>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/carlosDwayner" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+
 
 ```javascript
 const Carlos_Feliz = {
